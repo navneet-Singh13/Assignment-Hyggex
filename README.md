@@ -33,7 +33,7 @@
 
 # 📖 HyggeX Self-Study WebPage <a name="about-project"></a>
 
-**HyggeX Self-Study WebPage** helps students from ages 13 to 25 study with the help of content flashcards, quizes, tests, games and other features. This Web Application highlights the working of flashcards' of selected topics.
+**HyggeX Self-Study WebPage** helps students from ages 13 to 25 study with the help of content flashcards, quizes, tests, games and other features.
 
 ## 🛠 Built With <a name="built-with"></a>
 
