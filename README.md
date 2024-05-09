@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 <div align="center">  
   <h2><b> HyggeX Self-Study Webpage</b></h2>
 </div>
 =======
 # Hyggex Assignment
->>>>>>> 0a204ba972cafdb9f29a9789843e0dcc36a123a2
+
 
 <a name="readme-top"></a>
 
