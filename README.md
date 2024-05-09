@@ -1,9 +1,8 @@
 
 <div align="center">  
-  <h2><b> HyggeX Self-Study Webpage</b></h2>
+  <h2><b> HyggeX Webpage</b></h2>
 </div>
-=======
-# Hyggex Assignment
+
 
 
 <a name="readme-top"></a>
